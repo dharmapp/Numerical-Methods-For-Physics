@@ -1,4 +1,5 @@
 ###This code is written in Python by Dharma P. Permana###
+#any complain or question, please email: dhp.permana@gmail.com
 
 ###Damped Harmonic Oscillator###
 # y" + by' + cy = 0 
