@@ -1,4 +1,4 @@
-Code of numerical solution in physical problems. Written in Python language.
+Code of numerical solution in physical problems. Written in Python and MATLAB language.
 
 The codes are written by Dharma P. Permana. 
 
